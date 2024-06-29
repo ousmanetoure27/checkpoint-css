@@ -1,0 +1,42 @@
+h1{
+    color: slateblue;
+}
+#test{
+    color: orangered;
+
+}
+ul{
+    display: flex;
+}
+li{
+    margin: 10px;
+    list-style: none;
+}
+*{
+    font-family: 'Roboto'
+}
+nav img{
+    width: 550px;
+}
+a{color: greenyellow;
+
+}
+.section2 {
+    img{
+    width: 550px;
+   }
+   form{
+    background-color: brown;
+
+   }
+ }
+.section{
+    p{
+        color: darkblue;
+    }
+    div{
+        h1{
+            color: gold;
+        }
+    }
+}
